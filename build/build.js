@@ -32,8 +32,8 @@ export function build() {
             const title = match[0];
             const kebab = title.trim().toLowerCase().replace(/\s+/g, '-').replace(/[^0-9a-z\-_]/g, '');
             writeFileSync(`../out/${kebab}.html`, postHtml
-                .replace('POST_TITLE', title)
-                .replace('POST_CONTENT', md)
+                .replace(/POST_TITLE/g, title)
+                .replace(/POST_CONTENT/g, md)
             );
             homeContent += `<a href="${kebab}.html" class="post-link">${title}</a>`;
             console.log(`Built "${title}"`);
