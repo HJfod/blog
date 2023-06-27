@@ -1,0 +1,18 @@
+{
+  "name": "hjblog",
+  "version": "1.0.0",
+  "description": "Blog site genner",
+  "scripts": {
+    "watch": "node watch.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@octokit/rest": "^19.0.13",
+    "marked": "^5.1.0",
+    "marked-emoji": "^1.1.1",
+    "marked-gfm-heading-id": "^3.0.4",
+    "watch": "^0.13.0"
+  },
+  "type": "module"
+}
