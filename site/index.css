@@ -231,4 +231,5 @@ h1:first-of-type + blockquote > p {
     margin: 0;
     font-style: italic;
     color: #aaa;
+    width: auto;
 }
