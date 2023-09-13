@@ -22,7 +22,7 @@ That's why I decided that no matter what, BetterEdit would always be free. Aside
 
 That's why every time someone told me "this mod is so good I would pay for it" and I considered that, I eventually always decided against it. I just couldn't do that. Even though I knew the mod was worth a lot and there were a bunch of people willing to pay for it, I couldn't make the choice to lock it up.
 
-## How I considered making it paid
+## How I considered making money
 
 However, this didn't mean I couldn't make anything from the mod ever. I did have several different plans to start earning money via BE.
 
