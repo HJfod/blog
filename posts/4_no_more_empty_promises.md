@@ -1,5 +1,7 @@
 # No more empty promises
 
+> Posted by HJfod on 13/09/2023
+
 Since around April of this year all the way until the start of August, I was suffering from massive code burnout. My usually incredibly high activity dropped down to basically zero for months. I couldn't even open VS Code without immediately feeling tired.
 
 This made me very worried for the future state of my GD mods - mainly, of course, my flagship mod BetterEdit. Given that I was their sole developer, their development was also completely halted over the span I was burned out - not good when I was just working on a major overhaul on all of them.
