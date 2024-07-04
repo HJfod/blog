@@ -1,8 +1,8 @@
-# I am so tired
+# Yet Another BetterEdit Post
 
 > Posted by HJfod on 05/07/2024
 
-This is going to be a bit of a rambly post, partly because I am writing it past midnight and can't be assed to proofread it much, and also because - as the title suggests - I am so tired.
+This is going to be a bit of a rambly post, partly because I am writing it past midnight and can't be assed to proofread it much, and also because I am so tired.
 
 Over the last 3.5 years, I have done a *lot* of GD modding stuff. I pioneered the age of in-game modding, I was one of the main founders and practically the father of Geode, and I've made many of my own mods alongside that.
 
