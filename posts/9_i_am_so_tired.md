@@ -38,7 +38,7 @@ There is however one project I once gave up which I genuinely regretted so much 
 
 **I regretted and hated every moment of it.**
 
-This is not to say anything bad about the development team members themselves; they are all amazing people and I deeply respect each one for helping BE survive while I was recovering from burnout. However, the idea of having given up BetterEdit - the mod I had done everything for - it hurt so much.
+This is not to say anything bad about the development team members themselves; they are all amazing people and I deeply respect each one as people and am so grateful to them for helping BE survive while I was recovering from burnout. However, the idea of having given up BetterEdit - the mod I had done everything for - it hurt so much.
 
 I fully understand why RobTop has yet to hire a team to work on GD. Yes, there is a massive fanbase that would definitely appreciate faster and more stable updates, but at the same time sharing a passion project you have poured so much over so many years into with other people just feels... terrible. It feels absolutely terrible.
 
