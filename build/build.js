@@ -20,7 +20,9 @@ export function build() {
         rmSync('../out', { recursive: true });
     }
     mkdirSync('../out');
-    const postMds = readdirSync('../posts').map(post => readFileSync(`../posts/${post}`).toString());
+    const postMds = readdirSync('../posts')
+        .sort((a, b) => parseInt(a) < parseInt(b))
+        .map(post => readFileSync(`../posts/${post}`).toString());
     const postHtml = readFileSync('../site/post.html').toString();
     const homeHtml = readFileSync('../site/home.html').toString();
 
