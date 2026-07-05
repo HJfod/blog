@@ -8,11 +8,11 @@ If I had to throw a guess, then you're probably here from Twitter or Discord or 
 
 But first, a quick FAQ:
 
-##### Will Geode no longer be developed?
+### Will Geode no longer be developed?
 
 Geode's development will continue as before! We have a big team working on it, and while I am one of its founders and have been the so-called "CEO of Geode" for years now, I am ready to pass my torch along to the other team members. I am also still staying in the team chats to offer advice and make managerial decisions if needed, but I have not written actual code for Geode for a long time now, so really this will not affect Geode in any way.
 
-##### Will BetterEdit no longer be developed?
+### Will BetterEdit no longer be developed?
 
 Yes, BetterEdit is now officially abandonware. I will not be fixing any bugs nor adding new features. When the next GD update comes, BetterEdit will stop working, and I will not bring it back. I'd recommend installing other editor mods from Geode to replace BE. [Tinker](https://geode-sdk.org/mods/alphalaneous.tinker) for example is pretty awesome!
 
@@ -36,6 +36,13 @@ In addition to all of this – me losing interest and my mods being complete –
 
 And so, a few months ago, I decided it's probably time to call it quits. I am so happy with what I have been able to accomplish during my time making GD mods, and it's time to pass the torch on. Thank you all for the years of fun and support, and cya <3
 
-##### (P.S. What will I do now?)
+### (P.S. What will I do now?)
 
 For the most part I'll be living my life, but I've also been trying to get back in making [YouTube videos](https://www.youtube.com/@HJfod) for, like, years now. I'd like to be able to make a bunch of videos on GD modding to share all of the knowledge I've accumulated over the years, like going through the history of modding and making tutorials and whatnot. But we'll have to see if anything ever materializes out of that. Like I said, I don't spend much time on my PC anymore. But I'd hope to make a video or two!
+
+### ((P.P.S. What if I want to take over BetterEdit?))
+
+BetterEdit is [open-source](https://github.com/HJfod/BetterEdit) and you are free to take inspiration or just straight up copy any code from it. You can even copy the entire mod if you so wish, although I wouldn't recommend doing that as maintaining someone else's codebase can be very tough. And I do have one condition: you can not call your mod BetterEdit. Even if you make practically the same mod, change the name and logo to something else. **BetterEdit is my legacy, not your reanimated corpse.**
+
+As for my other mods, contact me if you'd like to take them over! You can also just release your own versions, but I'd recommend contacting me so we can avoid a billion people making the same mod.
+
