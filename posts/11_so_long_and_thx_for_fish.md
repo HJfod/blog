@@ -16,7 +16,7 @@ Geode's development will continue as before! We have a big team working on it, a
 
 Yes, BetterEdit is now officially abandonware. I will not be fixing any bugs nor adding new features. When the next GD update comes, BetterEdit will stop working, and I will not bring it back. I'd recommend installing other editor mods from Geode to replace BE. [Tinker](https://geode-sdk.org/mods/alphalaneous.tinker) for example is pretty awesome!
 
-##### Why?
+### Why?
 
 That is what I am going to spend the rest of this blog on, so strap in!
 
